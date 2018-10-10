@@ -18,7 +18,7 @@ resume_contact_email:           "belurvrao@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "9742347156"
-resume_contact_address:     "698, Water tank, 1 E cross, 3rd block, 4th stage, B'war Nagar, Bangalore"
+resume_contact_address:         "698, Water tank, 1 E cross, 3rd block, 4th stage, B'war Nagar, Bangalore"
 
 resume_header_contact_info:     "698, Water tank, 1 E cross, 3rd block, 4th stage, B'war Nagar, Bangalore"
 
