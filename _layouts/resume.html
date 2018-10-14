@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+        <img src="images/avatar.jpg" alt="my photo" class="avatar" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -26,7 +26,7 @@
         </div>
         {% endif %}
 
-        <div class="title-bar no-print">
+        <div class="title-bar">
 
           <!-- Your title is also defined in the _config.yml file -->
           <h2 class="header-title" itemprop="jobTitle">{{ site.resume_title }}</h2>
@@ -215,6 +215,26 @@
       <!-- end Links -->
       {% endif %}
 
+    {% if site.resume_section_details %}
+      <!-- begin Details -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Personal Details</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for link in site.data.details %}
+            <li><a href={{ detail.url }} itemprop="url">{{ detail.description }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Links -->
+      {% endif %}
+    
       {% if site.resume_print_social_links %}
       <!-- begin Print Social Links -->
       <section class="content-section print-only">
