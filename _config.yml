@@ -11,16 +11,17 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Venkatesh Rao"
-resume_title:                   "Option Trader/Freethinker/Decentralized Web"
+resume_title:                   "Trader/Decentralized Web/Freethinker"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "belurvrao@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "9742347156"
-resume_contact_address:         "698, Water tank, 1 E cross, 3rd block, 4th stage, Basaveshvarnagar Nagar, Bangalore"
+resume_contact_address:         "#698, Water tank, 1 E cross, 3rd block, 4th stage, Basaveshvarnagar Nagar, Bangalore"
+display_resume_contact_address:    "true"
 
-resume_header_contact_info:     "698, Water tank, 1 E cross, 3rd block, 4th stage, Basaveshvarnagar Nagar, Bangalore"
+resume_header_contact_info:     "#698, Water tank, 1 E cross, 3rd block, 4th stage, Basaveshvarnagar Nagar, Bangalore"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I am a Option Trader and self learnt web developer, fluent in C programming, HTML5, CSS, JavaScript, Python and PHP-MySQL. also, i am a freethinker, advocate decentralization, scientific humanist and a rationalist.</p>"
@@ -50,8 +51,8 @@ resume_social_links:
   resume_twitter_url:           "http://twitter.com/BVenkateshRao"
   resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:          "https://facebook.com/belur02"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  resume_instagram_url:         "http://www.instagram.com"
+  resume_linkedin_url:          "https://www.linkedin.com/in/belurvrao"
+  resume_instagram_url:         "http://www.instagram.com/belurvrao"
   resume_website_url:           "http://venkys.neocities.org"
   resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
