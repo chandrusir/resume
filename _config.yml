@@ -10,6 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
+resume_qr:                      "true"
 resume_name:                    "Venkatesh Rao"
 resume_title:                   "Trader/Decentralized Web/Freethinker"
 
