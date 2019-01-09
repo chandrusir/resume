@@ -1,13 +1,20 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
+- degree: Bachelor of Science, Mathematics & Statistics
+  uni: Bombay University
   year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  award: Mathematics/Statistics
+    - award: 
+  summary: Passed with 58%
 
-- degree: High School Diploma
-  uni: Springfield High School
+- degree: Intermediate/P.U.C.
+  uni: VPM's Jr. College
   year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  award: Science/PCMB
+  summary: Passed with 58%
+  
+  - degree: Metric
+  uni: VPM's High School, Mulund, Bombay
+  year: 2004
+  award: 
+  summary: Passed with 75%
+
