@@ -225,8 +225,8 @@
 
         <div class="resume-item">
           <ul class="resume-item-list">
-            {% for link in site.data.details %}
-            <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
+            {% for detail in site.data.details %}
+            <li>{{ detail.description }}</li>
             {% endfor %}
           </ul>
         </div>
