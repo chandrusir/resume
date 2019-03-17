@@ -237,8 +237,15 @@
 
         <div class="resume-item">
           <ul class="resume-item-list"> 
-            {% for detail in site.data.details %}
-            <li>{{ detail.description }}</li>
+  
+        {% for detail in site.data.details %}
+        
+        <h4 class="resume-item-details">{{ detail.detail }}</h4>
+        <p class="resume-item-copy">{{ detail.description }}</p>
+            
+            
+            
+         <li>{{ detail.description }}</li>
             {% endfor %}
           </ul>
         </div>
