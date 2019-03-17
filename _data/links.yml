@@ -3,7 +3,7 @@
   description: Collaberative code Writing platform
 - url: "radicle.xyz"
   description: A peer-to-peer stack for code collaboration
-- url: "https://ipfs.io/"
+- url: "ipfs.io"
   description: A peer-to-peer hypermedia protocol
-  - url: "https://ghost.io/"
+- url: "ghost.io"
   description: The professional publishing platform
