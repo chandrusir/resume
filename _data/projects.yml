@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: MS Office
+  role: Word, Exel, PowerPoint
+  duration: 2018 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Google Doc cross-platform, inter-operable, automatically syncs, it’s easily shareable, and perhaps best of all.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Photoshop - GIMP - PagePlus
+  role: Graphic Design
+  duration: 2018 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: GIMP is a cross-platform image editor available for GNU/Linux. For graphic designer, photographer, illustrator, or scientist, GIMP provides sophisticated tools.
