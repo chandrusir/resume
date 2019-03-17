@@ -3,7 +3,6 @@
   uni: Bombay University
   year: 2004 &mdash; 2008
   award: Mathematics/Statistics
-    - award: 
   summary: Passed with 58%
 
 - degree: Intermediate/P.U.C.
@@ -12,7 +11,7 @@
   award: Science/PCMB
   summary: Passed with 58%
   
-  - degree: Metric
+- degree: Metric
   uni: VPM's High School, Mulund, Bombay
   year: 2004
   award: 
