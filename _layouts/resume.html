@@ -235,15 +235,15 @@
           <h2>Personal Details</h2>
         </header>
 
-        <div class="resume-item">
-        {% for detail in site.data.details %}
         
+        {% for detail in site.data.details %}
+        <div class="resume-item">
         <h4 class="resume-item-details">{{ detail.detail }}</h4>
         <p class="resume-item-copy">{{ detail.description }}</p>
-       
+        </div>
         {% endfor %}
          
-        </div>
+       
 
       </section>
       <!-- end Details -->
