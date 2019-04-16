@@ -1,50 +1,50 @@
 # details
-- detail: Father Name
-  description: Shri. Mahadevappa
+- detail: Father Name - Shri. Mahadevappa
+#  description: Shri. Mahadevappa
   
-- detail: Mother Name
-  description: Rathnamma
+- detail: Mother Name - Rathnamma
+#  description: Rathnamma
 
-- detail: Date of Birth
-  description: 25.07.1990 
+- detail: Date of Birth - 25.07.1990 
+#  description: 25.07.1990 
 
-- detail: Sex
-  description: Male
+- detail: Sex - Male
+#  description: Male
 
-- detail: Nationality
-  description: Indian
+- detail: Nationality - Indian
+#  description: Indian
 
-- detail: Address
-  description: No.11/12, Ground Floor, Revanna Building, Near Madduramma Temple, Mysore Road, Nayandahalli, Bangalore - 39
+- detail: Address - No.11/12, Ground Floor, Revanna Building, Near Madduramma Temple, Mysore Road, Nayandahalli, Bangalore - 39
+#  description: No.11/12, Ground Floor, Revanna Building, Near Madduramma Temple, Mysore Road, Nayandahalli, Bangalore - 39
 
-- detail: City
-  description: Bengaluru South
+- detail: City - Bengaluru South
+#  description: Bengaluru South
 
-- detail: Religion
-  description: Hindu
+- detail: Religion - Hindu
+#  description: Hindu
 
-- detail: Marital Status
-  description: Single
+- detail: Marital Status - Single
+#  description: Single
 
-- detail: Languages
-  description: Kannada, Hindi, English, Telugu and Tamil
+- detail: Languages - Kannada, Hindi, English, Telugu and Tamil
+#  description: Kannada, Hindi, English, Telugu and Tamil
 
-- detail: Permanent Address
-  description: No.11/12, Ground Floor, Revanna Building, Near Madduramma Temple, Mysore Road, Nayandahalli, Bangalore - 39
+- detail: Permanent Address - No.11/12, Ground Floor, Revanna Building, Near Madduramma Temple, Mysore Road, Nayandahalli, Bangalore - 39
+#  description: No.11/12, Ground Floor, Revanna Building, Near Madduramma Temple, Mysore Road, Nayandahalli, Bangalore - 39
 
-- detail: UADAI No
-  description: 7925 4562 7895 1525
+#- detail: UADAI No
+#  description: 7925 4562 7895 1525
 
-- detail: Telephone No
-  description: 080 - 30160046/47
+#- detail: Telephone No
+#  description: 080 - 30160046/47
 
 - detail: Email ID
-  description:  chandushowoff@gmail.com
+#  description:  chandushowoff@gmail.com
 
 - detail: Mobile No
-  description: 97412 76296
+#  description: 97412 76296
 
-- detail: Alternate No
-  description: 97412 76296
+#- detail: Alternate No
+#  description: 97412 76296
 
 
