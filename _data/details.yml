@@ -1,48 +1,48 @@
 #details
-- detail: Father Name 
+  detail: Father Name 
   description: Shri. Mahadevappa
   
-- detail: Mother Name
+  detail: Mother Name
   description: Rathnamma
 
-- detail: Date of Birth
+  detail: Date of Birth
   description: 25.07.1990 
 
-- detail: Sex
+  detail: Sex
   description: Male
 
-- detail: Nationality
+  detail: Nationality
   description: Indian
 
-- detail: Address
+  detail: Address
   description: No.11/12, Ground Floor, Revanna Building, Near Madduramma Temple, Mysore Road, Nayandahalli, Bangalore - 39
 
-- detail: City
+  detail: City
   description: Bengaluru South
 
-- detail: Religion
+  detail: Religion
   description: Hindu
    
-- detail: Marital Status
+  detail: Marital Status
   description: Single
 
-- detail: Languages
+  detail: Languages
   description: Kannada, Hindi, English, Telugu and Tamil
 
-- detail: Permanent Address
+  detail: Permanent Address
   description: No.11/12, Ground Floor, Revanna Building, Near Madduramma Temple, Mysore Road, Nayandahalli, Bangalore - 39
 
- - detail: UADAI No
+  detail: UADAI No
   description: 7925 4562 7895 1525
 
- - detail: Telephone No
+  detail: Telephone No
   description: 080 - 30160046/47
 
-- detail: Email ID
+  detail: Email ID
   description:  chandushowoff@gmail.com
 
-- detail: Mobile No
+  detail: Mobile No
   description: 97412 76296
 
- - detail: Alternate No
+  detail: Alternate No
   description: 97412 76296
