@@ -1,6 +1,6 @@
 # Site settings
 title: "Resume"
-description: "Resume of Venkatesh Rao on GitHub site - Fork it and Use it."
+description: "Resume of Chandru Sir on GitHub site - Fork it and Use it."
 
 # Build settings
 markdown: kramdown
@@ -11,21 +11,21 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_qr:                      "true"
-resume_name:                    "Venkatesh Rao"
-resume_title:                   "Swing Trader/Contrarian View"
+resume_name:                    "Chandrashekara M"
+resume_title:                   "Store Manager"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "belurvrao@gmail.com"
+resume_contact_email:           "chandushowoff@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "Phone - 9742347156 | E-mail - belurvrao@gmail.om"
-resume_contact_address:         "#698, Water tank, 1 E cross, 3rd block, 4th stage, Basaveshvarnagar Nagar, Bangalore"
+resume_contact_telephone:       "Phone - 97412 76296 | E-mail - chandushowoff@gmail.om"
+resume_contact_address:         "#11/12, Ground Floor, Revanna Building, Near Madduramma Temple, Mysore Road, Nayandahalli, Bangalore - 39"
 display_resume_contact_address:    "true"
 
-resume_header_contact_info:     "#698, Water tank, 1 E cross, 3rd block, 4th stage, Basaveshvarnagar Nagar, Bangalore"
+resume_header_contact_info:     "#11/12, Ground Floor, Revanna Building, Near Madduramma Temple, Mysore Road, Nayandahalli, Bangalore - 39"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a Swing Trader and self learnt web developer, fluent in C programming, HTML5, CSS, JavaScript, PHP & MySQL. also, i am a freethinker, Scientific humanist and a rationalist.</p>"
+resume_header_intro: "<p>Looking for a suitable opportunity, where I can be the key team member, making meaningful contribution in the growth and success of the organiztion by delivering results & give my best in everything and perform at highest level with commitment and interest .</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
