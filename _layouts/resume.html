@@ -237,13 +237,13 @@
         </header>
 
         
-   
+     {% for detail in site.data.details %}
         <div class="resume-item">
           
         <table style="width:100%">
    <tr>
     <td><p class="resume-item-copy">{{ detail.detail }}</p></td>
-    <td> <p class="resume-item-copy">{{ detail.description }}</p></td>
+    <td><p class="resume-item-copy">{{ detail.description }}</p></td>
   </tr>
   
 </table>
