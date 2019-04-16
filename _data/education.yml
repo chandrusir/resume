@@ -1,19 +1,19 @@
 # Degree
-- degree: Bachelor of Science, Mathematics & Statistics
-  uni: Bombay University
-  year: 2004 &mdash; 2008
-  award: Mathematics/Statistics
-  summary: Passed with 58%
+#- degree: Bachelor of Science, Mathematics & Statistics
+#  uni: kARNATAKA University
+#  year: 2004 &mdash; 2008
+#  award: Mathematics/Statistics
+#  summary: Passed with 58%
 
 - degree: Intermediate/P.U.C.
-  uni: VPM's Jr. College
-  year: 2004
-  award: Science/PCMB
-  summary: Passed with 58%
+  uni: Karnataka Div. Board
+  year: 2007-08
+  #award: Science/PCMB
+  #summary: Passed with 58%
   
 - degree: Metric
-  uni: VPM's High School, Mulund, Bombay
-  year: 2004
-  award: 
-  summary: Passed with 75%
+  uni: Karnataka Higher Secondary Board
+  year: 2005-06
+  #award: 
+  #summary: Passed with 75%
 
