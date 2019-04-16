@@ -4,20 +4,20 @@
 # jazznotes.io
 - project: MS Office
   role: Word, Exel, PowerPoint
-  duration: 2018 &mdash; Present
+  duration: 2008 &mdash; Present
   # url: "#"
   description: Google Doc cross-platform, inter-operable, automatically syncs, it’s easily shareable, and perhaps best of all.
 
 # Springfield Community Outreach Group
-- project: Photoshop - GIMP - PagePlus
-  role: Graphic Design
-  duration: 2018 &mdash; Present
+- project: Computer Basics
+  role: Basic Operations
+  duration: 2008 &mdash; Present
   # url: "#"
-  description: GIMP is a cross-platform image editor available for GNU/Linux. For graphic designer, photographer, illustrator, or scientist, GIMP provides sophisticated tools.
+  description: Excel sheets, Formulaes, MS Outlook, PowerPoint etc.
 
 # Amazon Traied Ecommerce Specialist
-- project: ATES (Amazon Trained E-Commerce Specialist)
-  role: Service Provider
-  duration: 2016 &mdash; 2017
+- project: Microsoft Outlook
+  role: Mailing
+  duration: 2008 &mdash; Present
   url: "https://atesservice.blogspot.com/"
-  description: managing your seller central account on amazon, Adding new products listings, product updating/cataloging, updating Price & Quantities, Creating Promotions
+  description: Syncing mail server, Creating new Mail
