@@ -239,8 +239,15 @@
         
         {% for detail in site.data.details %}
         <div class="resume-item">
-        <h4 class="resume-item-details">{{ detail.detail }}</h4>
-        <p class="resume-item-copy">{{ detail.description }}</p>
+          
+        <table style="width:100%">
+   <tr>
+    <td><h4 class="resume-item-details">{{ detail.detail }}</h4></td>
+    <td> <p class="resume-item-copy">{{ detail.description }}</p></td>
+  </tr>
+  
+</table>
+        
         </div>
         {% endfor %}
          
